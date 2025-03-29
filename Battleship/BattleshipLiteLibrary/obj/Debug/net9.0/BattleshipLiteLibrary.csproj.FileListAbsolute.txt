@@ -1,0 +1,12 @@
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\Battleship\BattleshipLiteLibrary\bin\Debug\net9.0\BattleshipLiteLibrary.deps.json
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\Battleship\BattleshipLiteLibrary\bin\Debug\net9.0\BattleshipLiteLibrary.dll
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\Battleship\BattleshipLiteLibrary\bin\Debug\net9.0\BattleshipLiteLibrary.pdb
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\Battleship\BattleshipLiteLibrary\obj\Debug\net9.0\BattleshipLiteLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\Battleship\BattleshipLiteLibrary\obj\Debug\net9.0\BattleshipLiteLibrary.AssemblyInfoInputs.cache
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\Battleship\BattleshipLiteLibrary\obj\Debug\net9.0\BattleshipLiteLibrary.AssemblyInfo.cs
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\Battleship\BattleshipLiteLibrary\obj\Debug\net9.0\BattleshipLiteLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\Battleship\BattleshipLiteLibrary\obj\Debug\net9.0\BattleshipLiteLibrary.sourcelink.json
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\Battleship\BattleshipLiteLibrary\obj\Debug\net9.0\BattleshipLiteLibrary.dll
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\Battleship\BattleshipLiteLibrary\obj\Debug\net9.0\refint\BattleshipLiteLibrary.dll
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\Battleship\BattleshipLiteLibrary\obj\Debug\net9.0\BattleshipLiteLibrary.pdb
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\Battleship\BattleshipLiteLibrary\obj\Debug\net9.0\ref\BattleshipLiteLibrary.dll

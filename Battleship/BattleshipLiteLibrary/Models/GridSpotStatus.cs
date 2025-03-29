@@ -1,6 +1,6 @@
 ﻿namespace BattleshipLiteLibrary;
 
-public enum GridSpotStatus
+public enum Status
 {
     Empty, Ship, Miss, Hit, Sunk
 }

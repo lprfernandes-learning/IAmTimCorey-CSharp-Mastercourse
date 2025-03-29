@@ -2,8 +2,8 @@
 
 public class PlayerInfo
 {
-    public string Username { get; set; } = string.Empty;
-    public GridSpot[] ShipLocations { get; set; } = new GridSpot[5];
-    public GridSpot[] ShotLocations { get; set; } = new GridSpot[5];
-
+    public string UsersName { get; set; } = string.Empty;
+    public List<GridSpot> ShipLocations { get; set; } = new List<GridSpot>();
+    public List<GridSpot> ShotLocations { get; set; } = new List<GridSpot>();
+    public int NrShotsTaken { get; set; }
 }

@@ -1,26 +1,50 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "BattleshipLiteLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/BattleshipLiteLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BattleshipLiteLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BattleshipLiteLibrary/1.0.0": {
+      "type": "project",
+      "path": "../BattleshipLiteLibrary/BattleshipLiteLibrary.csproj",
+      "msbuildProject": "../BattleshipLiteLibrary/BattleshipLiteLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "BattleshipLiteLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\lprfe\\.nuget\\packages\\": {}
+    "C:\\Users\\lprfe\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\Battleship\\BattleshipLite\\BattleshipLite.csproj",
+      "projectUniqueName": "c:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\Battleship\\BattleshipLite\\BattleshipLite.csproj",
       "projectName": "BattleshipLite",
-      "projectPath": "C:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\Battleship\\BattleshipLite\\BattleshipLite.csproj",
+      "projectPath": "c:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\Battleship\\BattleshipLite\\BattleshipLite.csproj",
       "packagesPath": "C:\\Users\\lprfe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\Battleship\\BattleshipLite\\obj\\",
+      "outputPath": "c:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\Battleship\\BattleshipLite\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\lprfe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,13 +52,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\lprfe\\OneDrive\\Desktop": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "c:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\Battleship\\BattleshipLiteLibrary\\BattleshipLiteLibrary.csproj": {
+              "projectPath": "c:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\Battleship\\BattleshipLiteLibrary\\BattleshipLiteLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -47,7 +75,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -68,7 +96,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
