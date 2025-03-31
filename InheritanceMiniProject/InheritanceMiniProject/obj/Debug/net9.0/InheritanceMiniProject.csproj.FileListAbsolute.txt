@@ -1,0 +1,15 @@
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\InheritanceMiniProject\InheritanceMiniProject\bin\Debug\net9.0\InheritanceMiniProject.exe
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\InheritanceMiniProject\InheritanceMiniProject\bin\Debug\net9.0\InheritanceMiniProject.deps.json
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\InheritanceMiniProject\InheritanceMiniProject\bin\Debug\net9.0\InheritanceMiniProject.runtimeconfig.json
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\InheritanceMiniProject\InheritanceMiniProject\bin\Debug\net9.0\InheritanceMiniProject.dll
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\InheritanceMiniProject\InheritanceMiniProject\bin\Debug\net9.0\InheritanceMiniProject.pdb
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\InheritanceMiniProject\InheritanceMiniProject\obj\Debug\net9.0\InheritanceMiniProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\InheritanceMiniProject\InheritanceMiniProject\obj\Debug\net9.0\InheritanceMiniProject.AssemblyInfoInputs.cache
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\InheritanceMiniProject\InheritanceMiniProject\obj\Debug\net9.0\InheritanceMiniProject.AssemblyInfo.cs
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\InheritanceMiniProject\InheritanceMiniProject\obj\Debug\net9.0\InheritanceMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\InheritanceMiniProject\InheritanceMiniProject\obj\Debug\net9.0\InheritanceMiniProject.sourcelink.json
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\InheritanceMiniProject\InheritanceMiniProject\obj\Debug\net9.0\InheritanceMiniProject.dll
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\InheritanceMiniProject\InheritanceMiniProject\obj\Debug\net9.0\refint\InheritanceMiniProject.dll
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\InheritanceMiniProject\InheritanceMiniProject\obj\Debug\net9.0\InheritanceMiniProject.pdb
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\InheritanceMiniProject\InheritanceMiniProject\obj\Debug\net9.0\InheritanceMiniProject.genruntimeconfig.cache
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\InheritanceMiniProject\InheritanceMiniProject\obj\Debug\net9.0\ref\InheritanceMiniProject.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\Battleship\\BattleshipLiteLibrary\\BattleshipLiteLibrary.csproj": {}
+    "C:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\InheritanceMiniProject\\InheritanceMiniProject\\InheritanceMiniProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\Battleship\\BattleshipLiteLibrary\\BattleshipLiteLibrary.csproj": {
+    "C:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\InheritanceMiniProject\\InheritanceMiniProject\\InheritanceMiniProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\Battleship\\BattleshipLiteLibrary\\BattleshipLiteLibrary.csproj",
-        "projectName": "BattleshipLiteLibrary",
-        "projectPath": "C:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\Battleship\\BattleshipLiteLibrary\\BattleshipLiteLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\InheritanceMiniProject\\InheritanceMiniProject\\InheritanceMiniProject.csproj",
+        "projectName": "InheritanceMiniProject",
+        "projectPath": "C:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\InheritanceMiniProject\\InheritanceMiniProject\\InheritanceMiniProject.csproj",
         "packagesPath": "C:\\Users\\lprfe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\Battleship\\BattleshipLiteLibrary\\obj\\",
+        "outputPath": "C:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\InheritanceMiniProject\\InheritanceMiniProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lprfe\\AppData\\Roaming\\NuGet\\NuGet.Config",

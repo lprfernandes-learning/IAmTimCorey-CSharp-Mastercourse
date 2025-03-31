@@ -8,24 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lprfe\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\lprfe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\Battleship\\BattleshipLiteLibrary\\BattleshipLiteLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\Battleship\\BattleshipLiteLibrary\\BattleshipLiteLibrary.csproj",
       "projectName": "BattleshipLiteLibrary",
-      "projectPath": "c:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\Battleship\\BattleshipLiteLibrary\\BattleshipLiteLibrary.csproj",
+      "projectPath": "C:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\Battleship\\BattleshipLiteLibrary\\BattleshipLiteLibrary.csproj",
       "packagesPath": "C:\\Users\\lprfe\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\Battleship\\BattleshipLiteLibrary\\obj\\",
+      "outputPath": "C:\\Users\\lprfe\\OneDrive\\Desktop\\Software Engineering Training\\C#\\IAmTimCorey - CSharp Mastercourse\\Battleship\\BattleshipLiteLibrary\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\lprfe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Users\\lprfe\\OneDrive\\Desktop": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -52,7 +47,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -73,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
