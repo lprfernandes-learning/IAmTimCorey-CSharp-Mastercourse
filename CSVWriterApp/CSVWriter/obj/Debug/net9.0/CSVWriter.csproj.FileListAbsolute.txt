@@ -1,0 +1,15 @@
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\CSVWriterApp\CSVWriter\obj\Debug\net9.0\CSVWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\CSVWriterApp\CSVWriter\obj\Debug\net9.0\CSVWriter.AssemblyInfoInputs.cache
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\CSVWriterApp\CSVWriter\obj\Debug\net9.0\CSVWriter.AssemblyInfo.cs
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\CSVWriterApp\CSVWriter\obj\Debug\net9.0\CSVWriter.csproj.CoreCompileInputs.cache
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\CSVWriterApp\CSVWriter\obj\Debug\net9.0\CSVWriter.sourcelink.json
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\CSVWriterApp\CSVWriter\bin\Debug\net9.0\CSVWriter.exe
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\CSVWriterApp\CSVWriter\bin\Debug\net9.0\CSVWriter.deps.json
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\CSVWriterApp\CSVWriter\bin\Debug\net9.0\CSVWriter.runtimeconfig.json
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\CSVWriterApp\CSVWriter\bin\Debug\net9.0\CSVWriter.dll
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\CSVWriterApp\CSVWriter\bin\Debug\net9.0\CSVWriter.pdb
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\CSVWriterApp\CSVWriter\obj\Debug\net9.0\CSVWriter.dll
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\CSVWriterApp\CSVWriter\obj\Debug\net9.0\refint\CSVWriter.dll
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\CSVWriterApp\CSVWriter\obj\Debug\net9.0\CSVWriter.pdb
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\CSVWriterApp\CSVWriter\obj\Debug\net9.0\CSVWriter.genruntimeconfig.cache
+C:\Users\lprfe\OneDrive\Desktop\Software Engineering Training\C#\IAmTimCorey - CSharp Mastercourse\CSVWriterApp\CSVWriter\obj\Debug\net9.0\ref\CSVWriter.dll
